@@ -1,0 +1,109 @@
+---
+title: Proceedings of Machine Learning Research
+booktitle: Proceedings of the Geometry, Topology, and Machine Learning Workshop
+shortname: GTML
+year: '2025'
+volume: '325'
+start: &1 2025-11-10
+end: 2025-11-14
+published: 2026-06-29
+conference_number: '1'
+sections:
+- name: Preface
+  title: Preface
+- name: Full Papers
+  title: Full Papers
+- name: Extended Abstracts
+  title: Extended Abstracts
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: v325
+month: 0
+tex_title: Proceedings of the Geometry, Topology, and Machine Learning Workshop
+cycles: false
+bibtex_editor: Bleher, Michael and Jensen, Freya and Maier, Levin and Taha, Diaaeldin
+  and Wienhard, Anna
+editor:
+- given: Michael
+  family: Bleher
+- given: Freya
+  family: Jensen
+- given: Levin
+  family: Maier
+- given: Diaaeldin
+  family: Taha
+- given: Anna
+  family: Wienhard
+description: |
+  Proceedings of the Geometry, Topology, and Machine Learning Workshop
+    Held in Max Planck Institute for Mathematics in the Sciences, Leipzig, Germany on 10-14 November 2025
+
+  Published as Volume 325 by the Proceedings of Machine Learning Research on 29 June 2026.
+
+  Volume Edited by:
+    Michael Bleher
+    Freya Jensen
+    Levin Maier
+    Diaaeldin Taha
+    Anna Wienhard
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 10--14 Nov
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v325"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v325
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v325
+email: ''
+conference:
+  name: Geometry, Topology, and Machine Learning
+  url: https://www.mis.mpg.de/events/series/workshop-on-geometry-topology-and-machine-learning-gtml-2025
+  location: Max Planck Institute for Mathematics in the Sciences, Leipzig, Germany
+  dates:
+  - *1
+  - 2025-11-11
+  - 2025-11-12
+  - 2025-11-13
+  - 2025-11-14
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: v325_clean.bib
+# Site settings
+# Original source:  v325_clean.bib
