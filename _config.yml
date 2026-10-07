@@ -4,7 +4,7 @@ booktitle: Proceedings of the Geometry, Topology, and Machine Learning Workshop
 shortname: GTML
 year: '2025'
 volume: '325'
-start: &1 2025-11-10
+start: 2025-11-10
 end: 2025-11-14
 published: 2026-06-29
 conference_number: '1'
@@ -87,7 +87,7 @@ conference:
   url: https://www.mis.mpg.de/events/series/workshop-on-geometry-topology-and-machine-learning-gtml-2025
   location: Max Planck Institute for Mathematics in the Sciences, Leipzig, Germany
   dates:
-  - *1
+  - 2025-11-10
   - 2025-11-11
   - 2025-11-12
   - 2025-11-13
